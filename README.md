@@ -34,11 +34,10 @@ __Práctica con código__
 - Tipos de síntesis
 
 
-
 ## Presentación de resultados
 
 - Radio Tsunami 
-- PiranhaLab
+- PiranhaLab 
 
 
 
