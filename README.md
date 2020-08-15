@@ -5,7 +5,7 @@ Licencia Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
 Agosto, 2020.
 
 ![portada](https://github.com/MarianneTeixido/hackcode2.0/blob/master/img/01.jpg)
-Gif hackfeminista de [Alina Sánchez](https://giphy.com/gifs/artist-alinasanchez-hackfeministas-idSEtVpsq0zpzKIhW1/fullscreen)
+Fotograma. Gif hackfeminista de [Alina Sánchez](https://giphy.com/gifs/artist-alinasanchez-hackfeministas-idSEtVpsq0zpzKIhW1/fullscreen)
 
 Bienvenidas, bienvenides.
 
@@ -20,7 +20,7 @@ El objetivo es crear un micro-set incorporando síntesis de audio, patrones y mu
 
 ## Programa 
 
-- [x] [Sesión 01. Unos y ceros. Pioneras y primer acercamiento.](https://github.com/MarianneTeixido/hackcode2.0/tree/master/sesion01/README.md)
+- [x] [Sesión 01. Unos y ceros. Pioneras y primer acercamiento.](https://github.com/MarianneTeixido/hackcode2.0/tree/master/sesion01/README.md)  
 __Teórico__
 - Revisión histórica de las mujeres en la música desde la prespectiva hackfeminista y ciberfeminista. 
 - Programadoras. Matrices computacionales. 
