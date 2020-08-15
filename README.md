@@ -29,11 +29,11 @@ __Teórico__
 - Hackfeminismo como experimentación sonora.  
 
 __Práctica con código__
-- Intrudicción a SuperCollider
+- Introducción a SuperCollider
 - UGEN's
 - Formas de onda
 - Tipos de síntesis
-
+- Ejercicios
 
 ## Presentación de resultados
 
