@@ -30,7 +30,7 @@ __Teórico__
 
 __Práctica con código__
 - Intrudicción a SuperCollider
-- UGES
+- UGEN's
 - Formas de onda
 - Tipos de síntesis
 
