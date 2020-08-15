@@ -10,7 +10,7 @@ Fotograma. Gif hackfeminista de [Alina Sánchez](https://giphy.com/gifs/artist-a
 
 Bienvenidas, bienvenides.
 
-En este talles aprenderemos a live codear usando el lenguaje de programación SuperCollider, el cual está enfocado en realizar síntesis de audio y composición algorítmica, tanto en tiempo diferido como en tiempo real. Es una plataforma accesible para la experimentación sonora, desarrollar espacios inmersivos, instalaciones, interfaces, conciertos, intervenciones o directamente hacer código en vivo. 
+En este taller aprenderemos a live codear usando el lenguaje de programación SuperCollider, el cual está enfocado en realizar síntesis de audio y composición algorítmica, tanto en tiempo diferido como en tiempo real. Es una plataforma accesible para la experimentación sonora, desarrollar espacios inmersivos, instalaciones, interfaces, conciertos, intervenciones o directamente hacer código en vivo. 
 
 ## Objetivo
 
