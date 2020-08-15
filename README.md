@@ -37,8 +37,8 @@ __Práctica con código__
 
 ## Presentación de resultados
 
-- Radio Tsunami 
-- PiranhaLab 
+- [Radio Tsonami](http://radiotsonami.org/) 
+- [PiranhaLab](http://piranhalab.cc/) 
 
 
 
