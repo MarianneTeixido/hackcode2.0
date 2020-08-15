@@ -21,8 +21,16 @@ En el caso del cruce entre la música, tecnología y código, el problema anteri
 
 ### Música con código y ciberfeminismos  
 
+¿Cuál es el escenario actual? Lectura recomendada [Feminismo y Tecnología: Software Libre y Cultura Hacker Como Medio Para la Apropiación Tecnológica, Una Propuesta Hackfeminista](https://academic.oup.com/dsh/advance-article/doi/10.1093/llc/fqaa040/5881575?guestAccessKey=178a16f0-2552-484c-b248-72c7cc1fcb37&fbclid=IwAR3tqGeoT7WX7FomywB18p0oBg5F-8BjqSLd0nBGw_3lwD5Y7ApY94Pk2zI) de Irene Soria Guzmán. 
 
+- Software Libre y feminismo. 
+- ¿Dónde nos encontramos las hackers-coders que usamos el código con fines artísticos y estéticos?
+- Relación con la tecnología o negación. 
+- Ética hacker y [live coding](https://toplap.org/wiki/ManifestoDraft). 
 
+## Práctica con código
+
+Introducción a [SuperCollider](https://github.com/MarianneTeixido/hackcode2.0/blob/master/sesion01/s01.scd)  
 
 
 
