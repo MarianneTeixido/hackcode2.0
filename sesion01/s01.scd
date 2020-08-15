@@ -1,4 +1,4 @@
-//Hackcode. Música y experimentación sonora con SuperCollider
+//Hackcode. Composición Algorítmica en tiempo real.
 //Agosto, 2020
 //Festival Sur Aural
 //Licencia GNU General Public License v3.0
