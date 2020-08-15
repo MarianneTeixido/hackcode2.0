@@ -1,8 +1,8 @@
 # Hackcode 2.0
 
-Taller Hackcode impartido para el ciclo de talleres del Festival Sur Aural. 
-Licencia GNU General Public License v3.0
-Agosto, 2020.
+Taller Hackcode impartido para el ciclo de talleres del Festival Sur Aural.   
+Licencia GNU General Public License v3.0  
+Agosto, 2020.  
 
 ![portada](https://github.com/MarianneTeixido/hackcode2.0/blob/master/img/01.jpg)
 Fotograma. Gif hackfeminista de [Alina Sánchez](https://giphy.com/gifs/artist-alinasanchez-hackfeministas-idSEtVpsq0zpzKIhW1/fullscreen)
