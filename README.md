@@ -35,6 +35,19 @@ __Práctica con código__
 - Tipos de síntesis
 - Ejercicios
 
+
+
+- [x] [Sesión 02. Filtros, envolventes y estructuras](https://github.com/MarianneTeixido/hackcode2.0/tree/master/sesion02/README.md)  
+
+__Práctica con código__
+- Filtros: HPF, BPF, LPF.
+- Escalas: midicps.
+- Envolventes: ADSR, ASR, PERC
+- Variables
+- SynthDef
+- Ejercicios
+- Introducción a ProxySpace
+
 ## Presentación de resultados
 
 - [Radio Tsonami](http://radiotsonami.org/) 
