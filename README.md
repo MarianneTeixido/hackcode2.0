@@ -48,6 +48,22 @@ __Práctica con código__
 - Ejercicios
 - Introducción a ProxySpace
 
+
+- [x] [Sesión 03. Live Coding con Proxy Space y MIDI](https://github.com/MarianneTeixido/hackcode2.0/tree/master/sesion03/README.md)  
+
+__Teórico__
+- Introducción a Node Proxy y JITLib
+- Métodos para proxys
+- Variables dinámicas
+ 
+__Práctica con código__
+- Uso de variables y métodos en ProxySpace
+- Acordes y arpegios.
+- Secuenciación y envolventes en ProxySpace. 
+- Baterías de sonidos y cuantización. 
+- Introducción a MIDI
+- Live Codeo con MIDI
+
 ## Presentación de resultados
 
 - [Radio Tsonami](http://radiotsonami.org/) 
