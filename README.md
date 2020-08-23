@@ -5,8 +5,7 @@ Taller Hackcode. Composición Algorítmica en tiempo real
 Licencia GNU General Public License v3.0  
   
 
-![portada](https://github.com/MarianneTeixido/hackcode2.0/blob/master/img/01.jpg)
-Fotograma. Gif hackfeminista de [Alina Sánchez](https://giphy.com/gifs/artist-alinasanchez-hackfeministas-idSEtVpsq0zpzKIhW1/fullscreen)
+![reudo](https://github.com/MarianneTeixido/hackcode2.0/blob/master/img/02.jpg)  
 
 Bienvenidas, bienvenides.
 
@@ -64,11 +63,18 @@ __Práctica con código__
 - Introducción a MIDI
 - Live Codeo con MIDI
 
+- [x] [Sesión 04. Lectura de valores con CSV](https://github.com/MarianneTeixido/hackcode2.0/tree/master/sesion04/README.md)  
+__Práctica con código__
+- Almacenamiento de valores y variables. 
+- Lectura y parseo
+- Sonificación. 
+
+
 ## Presentación de resultados
 
-- [Radio Tsonami](http://radiotsonami.org/) 
+- [Radio Tsonami](http://radiotsonami.org/)  
+Miércoles 26 de agosto. 22:00 UCT-4
+
 - [PiranhaLab](http://piranhalab.cc/) 
-
-
-
+Sábado 5 de septiembre. 18:00 UCT-4 
 
