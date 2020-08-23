@@ -32,7 +32,7 @@ __Práctica con código__
 - UGEN's
 - Formas de onda
 - Tipos de síntesis
-- Ejercicios
+- Ejercicios  
 
 
 
@@ -45,7 +45,7 @@ __Práctica con código__
 - Variables
 - SynthDef
 - Ejercicios
-- Introducción a ProxySpace
+- Introducción a ProxySpace  
 
 
 - [x] [Sesión 03. Live Coding con Proxy Space y MIDI](https://github.com/MarianneTeixido/hackcode2.0/tree/master/sesion03/README.md)  
@@ -61,7 +61,8 @@ __Práctica con código__
 - Secuenciación y envolventes en ProxySpace. 
 - Baterías de sonidos y cuantización. 
 - Introducción a MIDI
-- Live Codeo con MIDI
+- Live Codeo con MIDI  
+
 
 - [x] [Sesión 04. Lectura de valores con CSV](https://github.com/MarianneTeixido/hackcode2.0/tree/master/sesion04/README.md)  
 __Práctica con código__
@@ -75,6 +76,7 @@ __Práctica con código__
 - [Radio Tsonami](http://radiotsonami.org/)  
 Miércoles 26 de agosto. 22:00 UCT-4
 
-- [PiranhaLab](http://piranhalab.cc/) 
-Sábado 5 de septiembre. 18:00 UCT-4 
+- [PiranhaLab](http://piranhalab.cc/)   
+Sábado 5 de septiembre. 18:00 UCT-4   
 
+- [Link de pad](https://pad.riseup.net/p/hackcode) 
